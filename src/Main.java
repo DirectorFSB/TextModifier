@@ -44,8 +44,10 @@ public class Main {
         String strSum =Integer.toString(sum);
         fin = fin + " " + strSum;
         System.out.println(fin);
+        }else{
+            System.out.println(fin);
         }
-        System.out.println(fin);
+
         return text;
     }
 }
